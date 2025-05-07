@@ -1,9 +1,18 @@
 # Notely
-a note that built by "Nicky" himself, he built this project to help himself to not forget
-> "I wanna built something that useful for myself first, then built something else for somebody else"
-> Nicky.
 
-Connect with me:
-[Github](https://github.com/NickyAir)
-[Facebook](https://www.facebook.com/eds.gaming.2005/)
-[Instagram](https://www.instagram.com/kyy.901a?igsh=OXVqM2NzNDlkcmVx)
+_A simple yet personal note app built by Nicky._
+
+This project was born out of a personal need—to better remember things and stay organized.  
+It’s a small step towards building tools that matter, starting with helping myself first.
+
+> _"I want to build something useful for myself first,  
+> then build something else for somebody else."_  
+> — **Nicky**
+
+---
+
+### Connect with me
+
+- [GitHub](https://github.com/NickyAir)  
+- [Facebook](https://www.facebook.com/eds.gaming.2005/)  
+- [Instagram](https://www.instagram.com/kyy.901a?igsh=OXVqM2NzNDlkcmVx)
