@@ -1,7 +1,7 @@
 {
   "name": "notely",
   "private": true,
-  "version": "1.0_Self_Release",
+  "version": "1.2_Beta_Release",
   "type": "module",
   "scripts": {
     "dev": "vite",
